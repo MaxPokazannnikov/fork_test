@@ -9,4 +9,14 @@
     <value>Test fork</value>
   </synonym>
   <containedObjects classId="c3831ec8-d8d5-4f93-8a22-f9bfae07327f" objectId="b78dd53f-8a07-458a-bf1c-23440b61533d"/>
+  <defaultForm>ExternalDataProcessor.test_fork.Form.Форма</defaultForm>
+  <forms uuid="add83945-f52c-4213-88e1-ca860115e668">
+    <name>Форма</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
 </mdclass:ExternalDataProcessor>
